@@ -1,0 +1,1 @@
+//define recipe model with fields like title, ingredients, instructions, etc.

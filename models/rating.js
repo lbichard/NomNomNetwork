@@ -1,0 +1,1 @@
+//define rating model to store user ratings for recipes
